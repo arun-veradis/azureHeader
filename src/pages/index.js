@@ -1,3 +1,6 @@
 import React from "react"
+import Header from "../components/azureHeader"
 
-export default () => <div>Hello world!</div>
+export default () => (
+    <Header/>
+)
